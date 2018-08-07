@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(a,b) {
   return a + b 
 }
@@ -31,3 +32,9 @@ function preserveDecimal(n) {
 }
 
 
+=======
+a = Math.floor(Math.random() * 1000)
+b = Math.floor(Math.random() * 1000)
+
+a += b
+>>>>>>> 96590224ed3b889385428e4ffb5e6ad6e9474d4e
